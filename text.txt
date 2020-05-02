@@ -1,1 +1,2 @@
 hello git!
+here is a hint
